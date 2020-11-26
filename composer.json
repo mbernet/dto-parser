@@ -1,0 +1,21 @@
+{
+  "name": "mbernet/dto-parser",
+  "description": "A DTO Parser to convert array to object magically",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marc Bernet",
+      "email": "mbernet@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "DTOParser\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.1"
+  }
+}
