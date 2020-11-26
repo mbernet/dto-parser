@@ -9,7 +9,6 @@
       "email": "mbernet@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "DTOParser\\": "src/"
