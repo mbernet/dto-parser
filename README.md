@@ -2,6 +2,8 @@
 
 Parse simple array data to well defined PHP objects. Very usefull to strict type data before json encoding.
 
+Just extend your DTO object with BaseDTO
+
 Example
 
 ```php
