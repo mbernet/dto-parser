@@ -1,6 +1,6 @@
 # dto-parser
 
-Parse simple array data to well defined PHP objects.
+Parse simple array data to well defined PHP objects. Very usefull to strict type data before json encoding.
 
 Example
 
